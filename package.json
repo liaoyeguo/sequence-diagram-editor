@@ -11,6 +11,8 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
+    "@types/p5": "^0.9.1",
+    "@types/react": "^17.0.0",
     "typescript": "3.8.3"
   },
   "scripts": {
