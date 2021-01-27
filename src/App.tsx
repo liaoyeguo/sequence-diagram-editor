@@ -22,7 +22,7 @@ export default class App extends Component {
     // p5.text("p5*", 60, 250);
     const p = new Participant({
       name: "opphkdoakow",
-      position: p5.createVector(p5.width / 2, p5.height / 2)
+      position: p5.createVector(p5.width / 2, p5.height / 2),
     });
     p.draw(p5);
   };
